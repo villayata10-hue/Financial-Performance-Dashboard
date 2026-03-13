@@ -1,6 +1,6 @@
-**Project Title**
+# **Project Title**
 
-**Financial Performance Dashboard**
+## **Financial Performance Dashboard**
 
 
 This project presents an interactive Financial Performance Dashboard developed in Tableau to analyze revenue, profitability, cost efficiency, discount impact, and regional performance.
