@@ -12,7 +12,7 @@ It enables data-driven decision-making through KPI tracking, trend analysis, and
 
 Tableau Link (Project) :- https://public.tableau.com/views/FinancialPerformanceDashboard2/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-**Objectives**
+## **Objectives**
 
 Monitor overall financial health
 
@@ -26,7 +26,7 @@ Track cost efficiency and sales targets
 
 
 
-**Key Visualizations**
+## **Key Visualizations**
 
 Line Charts (Sales Trends)
 
